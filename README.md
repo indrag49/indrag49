@@ -4,8 +4,8 @@
 - Lead of computational physics app development and simulations group at the Sirpi Data Science team.
 - Side project that I am working on is related to [Computational Photonics](https://indrag49.github.io/project1.html) simulations.
 - Would like to collaborate on topics related to R package developments, shiny app developments, numerical methods, dynamical systems and quantum computing.
-- Currently trying to learn financial analysis from "Statistics and Data Analysis for Financial Ananlysis" by Ruppert and Matteson.
-- Real me via email: indranilg49@gmail.com(personal/professional) or indranil@sirpi.io(professional)
+- Currently trying to learn financial analysis from "Statistics and Data Analysis for Financial Engineering" by Ruppert and Matteson.
+- Reach me via email: indranilg49@gmail.com(personal/professional) or indranil@sirpi.io(professional)
 ```
 
 - Pronouns: He/Him
