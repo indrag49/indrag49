@@ -4,5 +4,5 @@ Check out my blog on *Introductory Football (Soccer) Data Analytics* [here](http
 
 -- pronouns: he/him
 
--- emails: indranilg49@gmail.com, I.Ghosh@massey.ac.nz
+-- emails: indranilg49@gmail.com, i.ghosh@massey.ac.nz
 
