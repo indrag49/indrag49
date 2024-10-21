@@ -2,7 +2,5 @@ I am a Postdoctoral fellow in Applied Mathematics, working on dynamical systems,
 
 Check out my blog on *Introductory Football (Soccer) Data Analytics* [here](https://realsoccerexpand.netlify.app/).
 
--- pronouns: he/him
-
 -- emails: indranilg49@gmail.com, i.ghosh@massey.ac.nz
 
