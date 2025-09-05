@@ -4,6 +4,6 @@ I am a Postdoctoral fellow in mathematical neuroscience, at the School of Mathem
 
 <div>
   <a href="https://github.com/indrag49">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=indrag49&show_icons=true&theme=dracula"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=indrag49&show_icons=true&theme=default"/> 
 <div>
 
