@@ -4,3 +4,8 @@ Check out my blog on *Introductory Football (Soccer) Data Analytics* [here](http
 
 -- emails: indranilg49@gmail.com, i.ghosh@massey.ac.nz
 
+<div>
+  <a href="https://github.com/indrag49">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=indrag49&show_icons=true&theme=dracula"/> 
+<div>
+
