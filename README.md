@@ -1,4 +1,4 @@
-I am a Postdoctoral fellow in mathematical neuroscience, at the School of Mathematics and Statistics, University College Dublin, Ireland. My interests lie in Nonlinear dynamics, Computational Physics, Open Source Scientific Software, Game Theory, and Quantum Computing.
+I am a Postdoctoral fellow in <a href="https://ucdmathneuro.github.io/">mathematical neuroscience</a> at the School of Mathematics and Statistics, University College Dublin, Ireland. My interests lie in Nonlinear dynamics, Computational Physics, Open Source Scientific Software, Game Theory, and Quantum Computing.
 
 -- emails: indranilg49@gmail.com, indra.ghosh@ucd.ie
 
